@@ -1,0 +1,8 @@
+{
+  "name": "KuloSplit - Bill Manager",
+  "description": "A web-based split bill manager that uses AI to analyze receipts. Upload or capture receipt images, extract items, add participants, assign items, and automatically split costs including tax and service fees. Data is stored locally.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
